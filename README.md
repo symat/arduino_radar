@@ -20,7 +20,3 @@ Also feel free to use in the classroom a short presentation available in Hungari
 Feel free to use it, Happy Easter! ;)
 
 (in more official terms: BSD-3)
-
-
-# arduino_radar
-Small arduino project for high-school students. Utilizing ultrasonic sensors, RGB LEDs, stepper motors and potentiometers. 
